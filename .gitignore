@@ -1,0 +1,6 @@
+.env
+Blog-Frontend/.env
+Blog-Backend/.env
+
+Blog-Frontend/node_modules/
+Blog-Backend/node_modules/
