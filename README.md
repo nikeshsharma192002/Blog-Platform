@@ -81,7 +81,7 @@ The server should now be running at http://localhost:5000.
 
 3. Configure API endpoint. In the .env file, specify the backend API base URL:
    ```bash
-   REACT_APP_API_BASE_URL=http://localhost:5000
+   REACT_APP_API_BASE_URL=http://localhost:5000/api
 
 4. Start the frontend server:
    ```bash
